@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vijayelectronic.github.io/Top-Electronic-Display-Board-Dealers-in-Unnao/sitemap.xml
+Sitemap: https://vijayelectronic.github.io/schoolvoicebellserviceunnao.netlify.appsitemap.xml
